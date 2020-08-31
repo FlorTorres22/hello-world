@@ -1,2 +1,2 @@
 # hello-world
-breve inicio 
+breve inicio de este proyecto 
